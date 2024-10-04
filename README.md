@@ -132,7 +132,7 @@ For a more complex form with additional fields and proper alignment, **Grid** co
 - [.NET MAUI Documentation - Layouts](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/)
 - [Microsoft Learn - StackLayout in .NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/stacklayout)
 - [Microsoft Learn - Grid Layout in .NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/grid)
-- [David Ortinau's Blog - Layouts in .NET MAUI](https://devblogs.microsoft.com/dotnet/) (search for related MAUI articles)
+- [David Ortinau's Blog - Layouts in .NET MAUI](https://devblogs.microsoft.com/dotnet/)
 
 # StackLayout in C# MAUI
 
