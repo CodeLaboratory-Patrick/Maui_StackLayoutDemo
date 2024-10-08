@@ -1,4 +1,5 @@
 # Understanding Layouts in .NET MAUI
+![Screenshot 2024-10-08 at 7 10 14 PM](https://github.com/user-attachments/assets/7cdb265b-24a3-4de9-a85f-1f2daa2013fb)
 
 ## What is a Layout?
 In .NET MAUI (Multi-platform App UI), a **layout** is a container that defines how visual elements, such as buttons, labels, images, and other controls, are arranged within a view. Layouts control the position, size, and alignment of child elements in your application's user interface, allowing you to build complex UIs effectively.
@@ -248,4 +249,6 @@ However, it's important to note that **StackLayout** can incur **performance iss
 - [.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Microsoft Learn - StackLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/stacklayout)
 - [Xamarin StackLayout (also applicable to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/stacklayout)
+- https://www.codeproject.com/Articles/1227733/Xamarin-Notes-Xamarin-Forms-Layouts
+- 
 
